@@ -1,4 +1,4 @@
-#Phabricator Aliyun OSS File Storage Engine
+# Phabricator Aliyun OSS File Storage Engine
 
 ---
 
@@ -18,6 +18,6 @@ git submodule add https://github.com/borisding1994/phabricator-oss-storage src/e
 
 ### LICENSE
 
-(c) 2016 borisding@me.com
+(c) 2016 hi@lding.ee
 
 Phabricator Aliyun OSS File Storage Engine is released under the MIT License.
